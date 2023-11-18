@@ -2,6 +2,8 @@ from selenium import webdriver
 import json
 import csv
 
+from tabulate import tabulate
+
 
 def measure_performance(url, number_of_measurements):
     options = webdriver.ChromeOptions()
@@ -11,9 +13,10 @@ def measure_performance(url, number_of_measurements):
     performance_results = []
     for _ in range(number_of_measurements):
         driver.get(url)
-        performance_timing = driver.execute_script(
-            "return {'start': window.performance.timing.responseStart, 'end': window.performance.timing.loadEventEnd}")
-        performance_results.append(performance_timing)
+        navigation_start = driver.execute_script("return window.performance.timing.navigationStart")
+        load_event_end = driver.execute_script("return window.performance.timing.loadEventEnd")
+        load_time = (load_event_end - navigation_start) / 1000
+        performance_results.append(load_time)
 
     driver.quit()
     return performance_results
@@ -42,7 +45,11 @@ URL = 'https://en.wikipedia.org/wiki/Software_metric'
 TIMES = 10
 
 performance_data = measure_performance(URL, TIMES)
-average_performance = calculate_average(performance_data)
+average_performance = sum(performance_data) / len(performance_data)
 write_to_json(performance_data, average_performance, 'performance.json')
 write_to_csv(average_performance, 'performance.csv')
-print(average_performance)
+table_data = [["Measurement", "Load Time (seconds)"]]
+table_data.extend([[f"Test {i+1}", time] for i, time in enumerate(performance_data)])
+table_data.append(["Average", average_performance])
+
+print(tabulate(table_data, headers="firstrow", tablefmt="grid"))
