@@ -1,0 +1,1010 @@
+[
+    {
+        "test_number": 1,
+        "load_time": 13.017,
+        "resources": [
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&only=styles&skin=vector-2022",
+                "duration": 67.79999999981374
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector-2022",
+                "duration": 85.59999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector-2022",
+                "duration": 91.59999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+                "duration": 100.1000000005588
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/icons/wikipedia.png",
+                "duration": 115.70000000018626
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en.svg",
+                "duration": 117.3999999994412
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Cswitcher&skin=vector-2022&version=7q91c",
+                "duration": 71.70000000018626
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector-2022&version=1qn5j",
+                "duration": 65.20000000018626
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=39mzg",
+                "duration": 652.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=menu&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 68.20000000018626
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=search&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 68.09999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=ellipsis&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 68
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=listBullet&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 69.70000000018626
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down.svg?9426f",
+                "duration": 69.59999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=language&variant=progressive&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 69.70000000018626
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down-progressive.svg?f0b59",
+                "duration": 69.59999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/bullet-icon.svg?d4515",
+                "duration": 71
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?30a3a",
+                "duration": 70.3999999994412
+            },
+            {
+                "name": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg",
+                "duration": 160.79999999981374
+            },
+            {
+                "name": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Icon_pdf_file.png",
+                "duration": 160.5
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/footer/wikimedia-button.png",
+                "duration": 55.40000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/footer/poweredby_mediawiki_88x31.png",
+                "duration": 56.90000000037253
+            }
+        ]
+    },
+    {
+        "test_number": 2,
+        "load_time": 0.558,
+        "resources": [
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&only=styles&skin=vector-2022",
+                "duration": 64.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector-2022",
+                "duration": 86.70000000018626
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector-2022",
+                "duration": 66.90000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/icons/wikipedia.png",
+                "duration": 109.6000000005588
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+                "duration": 87.79999999981374
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en.svg",
+                "duration": 113.20000000018626
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=menu&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 50.40000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=search&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 50.69999999925494
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=ellipsis&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 52.80000000074506
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=listBullet&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 52.59999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down.svg?9426f",
+                "duration": 54.30000000074506
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=language&variant=progressive&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 54.200000000186265
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down-progressive.svg?f0b59",
+                "duration": 55.700000000186265
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/bullet-icon.svg?d4515",
+                "duration": 55.30000000074506
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?30a3a",
+                "duration": 56.39999999944121
+            },
+            {
+                "name": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg",
+                "duration": 155.40000000037253
+            },
+            {
+                "name": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Icon_pdf_file.png",
+                "duration": 155.20000000018626
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/footer/wikimedia-button.png",
+                "duration": 57.09999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/footer/poweredby_mediawiki_88x31.png",
+                "duration": 57.700000000186265
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Cswitcher&skin=vector-2022&version=7q91c",
+                "duration": 123.20000000018626
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector-2022&version=1qn5j",
+                "duration": 123.09999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=39mzg",
+                "duration": 141
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.math.popup%7Cext.popups.images%2Cmain&skin=vector-2022&version=uyir0",
+                "duration": 54.09999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=mw.config.values.wbCurrentSiteDetails%2CwbRepo%7Coojs-ui.styles.icons-editing-core&skin=vector-2022&version=1g32s",
+                "duration": 51.40000000037253
+            }
+        ]
+    },
+    {
+        "test_number": 3,
+        "load_time": 0.537,
+        "resources": [
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&only=styles&skin=vector-2022",
+                "duration": 63.59999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector-2022",
+                "duration": 85.79999999981374
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector-2022",
+                "duration": 70
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+                "duration": 70.1000000005588
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/icons/wikipedia.png",
+                "duration": 108.30000000074506
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en.svg",
+                "duration": 110.20000000018626
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=menu&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 51
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=search&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 50.89999999944121
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=ellipsis&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 51.299999999813735
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=listBullet&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 51.700000000186265
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down.svg?9426f",
+                "duration": 55.39999999944121
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=language&variant=progressive&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 55.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down-progressive.svg?f0b59",
+                "duration": 55.299999999813735
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/bullet-icon.svg?d4515",
+                "duration": 54.799999999813735
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?30a3a",
+                "duration": 56.799999999813735
+            },
+            {
+                "name": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg",
+                "duration": 152.1000000005588
+            },
+            {
+                "name": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Icon_pdf_file.png",
+                "duration": 151.59999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/footer/wikimedia-button.png",
+                "duration": 51.299999999813735
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/footer/poweredby_mediawiki_88x31.png",
+                "duration": 52.09999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Cswitcher&skin=vector-2022&version=7q91c",
+                "duration": 52.39999999944121
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector-2022&version=1qn5j",
+                "duration": 57.59999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=39mzg",
+                "duration": 128.8999999994412
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=mw.config.values.wbCurrentSiteDetails%2CwbRepo%7Coojs-ui.styles.icons-editing-core&skin=vector-2022&version=1g32s",
+                "duration": 51.10000000055879
+            }
+        ]
+    },
+    {
+        "test_number": 4,
+        "load_time": 0.581,
+        "resources": [
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&only=styles&skin=vector-2022",
+                "duration": 63.700000000186265
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector-2022",
+                "duration": 79.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector-2022",
+                "duration": 84.8999999994412
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/icons/wikipedia.png",
+                "duration": 108.59999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+                "duration": 86.5
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en.svg",
+                "duration": 110.80000000074506
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Cswitcher&skin=vector-2022&version=7q91c",
+                "duration": 55.40000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector-2022&version=1qn5j",
+                "duration": 65.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=39mzg",
+                "duration": 137
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=menu&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 135.59999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=search&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 135.1000000005588
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=ellipsis&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 134.79999999981374
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=listBullet&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 136.90000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down.svg?9426f",
+                "duration": 134.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=language&variant=progressive&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 136.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down-progressive.svg?f0b59",
+                "duration": 136.20000000018626
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/bullet-icon.svg?d4515",
+                "duration": 135.8999999994412
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?30a3a",
+                "duration": 135.09999999962747
+            },
+            {
+                "name": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg",
+                "duration": 152.09999999962747
+            },
+            {
+                "name": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Icon_pdf_file.png",
+                "duration": 151.69999999925494
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/footer/wikimedia-button.png",
+                "duration": 80.90000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/footer/poweredby_mediawiki_88x31.png",
+                "duration": 81.09999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.math.popup%7Cext.popups.images%2Cmain&skin=vector-2022&version=uyir0",
+                "duration": 52.299999999813735
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=mw.config.values.wbCurrentSiteDetails%2CwbRepo%7Coojs-ui.styles.icons-editing-core&skin=vector-2022&version=1g32s",
+                "duration": 51.09999999962747
+            },
+            {
+                "name": "https://login.wikimedia.org/wiki/Special:CentralAutoLogin/checkLoggedIn?type=script&wikiid=enwiki",
+                "duration": 51.40000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=mediawiki.ui.button&skin=vector-2022&version=n59lb",
+                "duration": 51
+            }
+        ]
+    },
+    {
+        "test_number": 5,
+        "load_time": 0.591,
+        "resources": [
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&only=styles&skin=vector-2022",
+                "duration": 66.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector-2022",
+                "duration": 81.70000000018626
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector-2022",
+                "duration": 135.09999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/icons/wikipedia.png",
+                "duration": 136.6000000005588
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+                "duration": 53.799999999813735
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en.svg",
+                "duration": 136.29999999981374
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=menu&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 53.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=search&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 53.10000000055879
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=ellipsis&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 65.29999999981374
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=listBullet&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 65.6000000005588
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down.svg?9426f",
+                "duration": 64.20000000018626
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=language&variant=progressive&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 64.79999999981374
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down-progressive.svg?f0b59",
+                "duration": 65.3999999994412
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/bullet-icon.svg?d4515",
+                "duration": 65.30000000074506
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?30a3a",
+                "duration": 66.19999999925494
+            },
+            {
+                "name": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg",
+                "duration": 152
+            },
+            {
+                "name": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Icon_pdf_file.png",
+                "duration": 151.59999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/footer/poweredby_mediawiki_88x31.png",
+                "duration": 51.59999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/footer/wikimedia-button.png",
+                "duration": 52.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Cswitcher&skin=vector-2022&version=7q91c",
+                "duration": 59.40000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector-2022&version=1qn5j",
+                "duration": 56.200000000186265
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=39mzg",
+                "duration": 166.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.math.popup%7Cext.popups.images%2Cmain&skin=vector-2022&version=uyir0",
+                "duration": 53.09999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=mw.config.values.wbCurrentSiteDetails%2CwbRepo%7Coojs-ui.styles.icons-editing-core&skin=vector-2022&version=1g32s",
+                "duration": 51
+            }
+        ]
+    },
+    {
+        "test_number": 6,
+        "load_time": 0.536,
+        "resources": [
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&only=styles&skin=vector-2022",
+                "duration": 70
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector-2022",
+                "duration": 54.10000000055879
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector-2022",
+                "duration": 89.6000000005588
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/icons/wikipedia.png",
+                "duration": 111.8999999994412
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+                "duration": 56.40000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en.svg",
+                "duration": 100.29999999981374
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=menu&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 50.700000000186265
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=search&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 50.90000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=ellipsis&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 51.39999999944121
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=listBullet&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 52.09999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down.svg?9426f",
+                "duration": 52.89999999944121
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=language&variant=progressive&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 52.90000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down-progressive.svg?f0b59",
+                "duration": 54.39999999944121
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/bullet-icon.svg?d4515",
+                "duration": 53.799999999813735
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?30a3a",
+                "duration": 54.59999999962747
+            },
+            {
+                "name": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg",
+                "duration": 152
+            },
+            {
+                "name": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Icon_pdf_file.png",
+                "duration": 151.40000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/footer/wikimedia-button.png",
+                "duration": 51.299999999813735
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/footer/poweredby_mediawiki_88x31.png",
+                "duration": 52.10000000055879
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Cswitcher&skin=vector-2022&version=7q91c",
+                "duration": 52.799999999813735
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector-2022&version=1qn5j",
+                "duration": 58
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=39mzg",
+                "duration": 130.29999999981374
+            }
+        ]
+    },
+    {
+        "test_number": 7,
+        "load_time": 0.478,
+        "resources": [
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&only=styles&skin=vector-2022",
+                "duration": 72.70000000018626
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector-2022",
+                "duration": 44.69999999925494
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector-2022",
+                "duration": 72.59999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+                "duration": 56.30000000074506
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/icons/wikipedia.png",
+                "duration": 92.6000000005588
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en.svg",
+                "duration": 84.09999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=menu&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 42.59999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=search&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 43.40000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=ellipsis&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 45.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=listBullet&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 45.39999999944121
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down.svg?9426f",
+                "duration": 45.30000000074506
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down-progressive.svg?f0b59",
+                "duration": 45.200000000186265
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=language&variant=progressive&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 47.90000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/bullet-icon.svg?d4515",
+                "duration": 47.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?30a3a",
+                "duration": 46.799999999813735
+            },
+            {
+                "name": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg",
+                "duration": 122.90000000037253
+            },
+            {
+                "name": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Icon_pdf_file.png",
+                "duration": 122.70000000018626
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/footer/wikimedia-button.png",
+                "duration": 43.90000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/footer/poweredby_mediawiki_88x31.png",
+                "duration": 43.09999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Cswitcher&skin=vector-2022&version=7q91c",
+                "duration": 49.09999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector-2022&version=1qn5j",
+                "duration": 46.700000000186265
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=39mzg",
+                "duration": 107.79999999981374
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.math.popup%7Cext.popups.images%2Cmain&skin=vector-2022&version=uyir0",
+                "duration": 44.200000000186265
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=mw.config.values.wbCurrentSiteDetails%2CwbRepo%7Coojs-ui.styles.icons-editing-core&skin=vector-2022&version=1g32s",
+                "duration": 42.5
+            }
+        ]
+    },
+    {
+        "test_number": 8,
+        "load_time": 0.466,
+        "resources": [
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&only=styles&skin=vector-2022",
+                "duration": 53
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector-2022",
+                "duration": 69.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector-2022",
+                "duration": 56.40000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/icons/wikipedia.png",
+                "duration": 90.5
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+                "duration": 71.59999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en.svg",
+                "duration": 91.90000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=menu&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 42.10000000055879
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=search&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 42.89999999944121
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=ellipsis&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 43.200000000186265
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=listBullet&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 43.59999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down.svg?9426f",
+                "duration": 45.10000000055879
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=language&variant=progressive&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 43.90000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down-progressive.svg?f0b59",
+                "duration": 44.89999999944121
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/bullet-icon.svg?d4515",
+                "duration": 46
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?30a3a",
+                "duration": 45.299999999813735
+            },
+            {
+                "name": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg",
+                "duration": 126.90000000037253
+            },
+            {
+                "name": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Icon_pdf_file.png",
+                "duration": 126.1000000005588
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/footer/wikimedia-button.png",
+                "duration": 43
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/footer/poweredby_mediawiki_88x31.png",
+                "duration": 43.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Cswitcher&skin=vector-2022&version=7q91c",
+                "duration": 48.60000000055879
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector-2022&version=1qn5j",
+                "duration": 46
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=39mzg",
+                "duration": 107.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.math.popup%7Cext.popups.images%2Cmain&skin=vector-2022&version=uyir0",
+                "duration": 43.299999999813735
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=mw.config.values.wbCurrentSiteDetails%2CwbRepo%7Coojs-ui.styles.icons-editing-core&skin=vector-2022&version=1g32s",
+                "duration": 41.90000000037253
+            }
+        ]
+    },
+    {
+        "test_number": 9,
+        "load_time": 0.479,
+        "resources": [
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&only=styles&skin=vector-2022",
+                "duration": 54.39999999944121
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector-2022",
+                "duration": 71.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector-2022",
+                "duration": 55.5
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+                "duration": 73.6000000005588
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/icons/wikipedia.png",
+                "duration": 95.30000000074506
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en.svg",
+                "duration": 86.8999999994412
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=menu&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 43.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=search&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 43.299999999813735
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=ellipsis&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 43.90000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=listBullet&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 44.09999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down.svg?9426f",
+                "duration": 45.700000000186265
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=language&variant=progressive&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 44.200000000186265
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down-progressive.svg?f0b59",
+                "duration": 45.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/bullet-icon.svg?d4515",
+                "duration": 46.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?30a3a",
+                "duration": 46.10000000055879
+            },
+            {
+                "name": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg",
+                "duration": 128.30000000074506
+            },
+            {
+                "name": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Icon_pdf_file.png",
+                "duration": 128
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/footer/wikimedia-button.png",
+                "duration": 45.799999999813735
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/footer/poweredby_mediawiki_88x31.png",
+                "duration": 45.700000000186265
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Cswitcher&skin=vector-2022&version=7q91c",
+                "duration": 50.59999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector-2022&version=1qn5j",
+                "duration": 47.90000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=39mzg",
+                "duration": 113.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.math.popup%7Cext.popups.images%2Cmain&skin=vector-2022&version=uyir0",
+                "duration": 45.200000000186265
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=mw.config.values.wbCurrentSiteDetails%2CwbRepo%7Coojs-ui.styles.icons-editing-core&skin=vector-2022&version=1g32s",
+                "duration": 43.700000000186265
+            }
+        ]
+    },
+    {
+        "test_number": 10,
+        "load_time": 0.472,
+        "resources": [
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&only=styles&skin=vector-2022",
+                "duration": 54.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=startup&only=scripts&raw=1&skin=vector-2022",
+                "duration": 73.90000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=site.styles&only=styles&skin=vector-2022",
+                "duration": 55.89999999944121
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-wordmark-en.svg",
+                "duration": 60.700000000186265
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/icons/wikipedia.png",
+                "duration": 92.90000000037253
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/mobile/copyright/wikipedia-tagline-en.svg",
+                "duration": 94.59999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=menu&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 43
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=search&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 43
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=ellipsis&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 43.30000000074506
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=listBullet&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 44.299999999813735
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down.svg?9426f",
+                "duration": 43.5
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?modules=skins.vector.icons&image=language&variant=progressive&format=original&lang=en&skin=vector-2022&version=zvial",
+                "duration": 45.60000000055879
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/arrow-down-progressive.svg?f0b59",
+                "duration": 44.59999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/bullet-icon.svg?d4515",
+                "duration": 45
+            },
+            {
+                "name": "https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/link-external-small-ltr-progressive.svg?30a3a",
+                "duration": 45.39999999944121
+            },
+            {
+                "name": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg",
+                "duration": 129
+            },
+            {
+                "name": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Icon_pdf_file.png",
+                "duration": 128.70000000018626
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/footer/wikimedia-button.png",
+                "duration": 44.19999999925494
+            },
+            {
+                "name": "https://en.wikipedia.org/static/images/footer/poweredby_mediawiki_88x31.png",
+                "duration": 45
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.gadget.ReferenceTooltips%2Cswitcher&skin=vector-2022&version=7q91c",
+                "duration": 49.700000000186265
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.visualEditor.core.utils.parsing%7Cext.visualEditor.desktopArticleTarget.init%7Cext.visualEditor.progressBarWidget%2CsupportCheck%2CtargetLoader%2CtempWikitextEditorWidget%2Ctrack%2Cve&skin=vector-2022&version=1qn5j",
+                "duration": 47.200000000186265
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.urlShortener.toolbar%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.clientPreferences%2Cjs%7Cskins.vector.icons.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=39mzg",
+                "duration": 110.09999999962747
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=ext.math.popup%7Cext.popups.images%2Cmain&skin=vector-2022&version=uyir0",
+                "duration": 44.80000000074506
+            },
+            {
+                "name": "https://en.wikipedia.org/w/load.php?lang=en&modules=mw.config.values.wbCurrentSiteDetails%2CwbRepo%7Coojs-ui.styles.icons-editing-core&skin=vector-2022&version=1g32s",
+                "duration": 43.299999999813735
+            }
+        ]
+    }
+]
